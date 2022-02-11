@@ -8,5 +8,6 @@
 * @Luiroja - Rogerio Juárez
 * @juliana176
 * @jerry-gzh
+* @JosAuditore - Jose Manuel Perez
 
 **Este cambio lo debes de tener para continuar**
